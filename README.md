@@ -6,8 +6,8 @@
 Images Credentials: https://www.vecteezy.com
 
 CANVAS API:
-https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
-https://www.w3schools.com/html/html5_canvas.asp
+1. https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+2. https://www.w3schools.com/html/html5_canvas.asp
 
 > Developed by Nijat Aliyev
 
