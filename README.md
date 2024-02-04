@@ -1,4 +1,5 @@
-# Realistic Animated Solar System with HTML Canvas and JavaScript.
+# Realistic Animated Solar System
+## HTML Canvas and JavaScript.
 
 ![Solar System](<images/Screenshot .png>)
 
